@@ -30,7 +30,7 @@ Users are able to:
 
 ### Links
 
-- Live Site URL: [https://jiraffe.vercel.app/](https://jiraffe.vercel.app/)
+- Live Site URL: [https://jira-ffe.vercel.app/](https://jira-ffe.vercel.app/)
 
 ### Built with
 
